@@ -29,7 +29,8 @@ The data is provided by Bertelsmann Arvato Analytics, and it cannot be publicly 
 
 ### File Description
 
-README.md - repo information Arvato Project Workbook.ipynb - Jupyter notebook containing project code
+- README.md 
+- Arvato Project Workbook.ipynb - Jupyter notebook containing project code
 
 ### Libraries
 
@@ -37,7 +38,7 @@ The code is written in python 3. Libraries used include numpy, pandas, matplotli
 
 ### Results
 
-The main findings are included in this repo  and my medium post 
+The main findings are included in this repo  and my medium [post](https://uforodavid.medium.com/customer-segmentation-udacity-dsnd-capstone-pro-b0cd66c01ab9)
 
 ### License and Acknowledgement
 
