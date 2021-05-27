@@ -15,9 +15,15 @@ Kaggle competition
 
 ### Dataset
 
-There are four data files associated with this project: -azdias.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns). -customers.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns). -mailout_train.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns). -mailout_test.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
+There are four data files associated with this project: 
+-azdias.csv: Demographics data for the general population of Germany; 891 211 persons (rows) x 366 features (columns). 
+-customers.csv: Demographics data for customers of a mail-order company; 191 652 persons (rows) x 369 features (columns). 
+-mailout_train.csv: Demographics data for individuals who were targets of a marketing campaign; 42 982 persons (rows) x 367 (columns). 
+-mailout_test.csv: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
-There are also two Excel spreadsheets. -DIAS Information Levels - Attributes 2017.xlsx is a top-level list of attributes and descriptions, organized by informational category. -DIAS Attributes - Values 2017.xlsx is a detailed mapping of data values for each feature in alphabetical order.
+There are also two Excel spreadsheets. 
+-DIAS Information Levels - Attributes 2017.xlsx is a top-level list of attributes and descriptions, organized by informational category. 
+-DIAS Attributes - Values 2017.xlsx is a detailed mapping of data values for each feature in alphabetical order.
 
 The data is provided by Bertelsmann Arvato Analytics, and it cannot be publicly shared.
 
