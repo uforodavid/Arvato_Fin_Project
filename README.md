@@ -21,7 +21,7 @@ There are four sections in this project:
 
 
 ## Installation <a name="installation"></a>
-Installation of Python 3, Numpy, Pandas Matplotlib and Scikit learn libraries are sufficient to run the codes in the notebook. 
+Installation of Python 3, Numpy, Pandas, Matplotlib, seaborn, yellowstick and Scikit learn libraries are sufficient to run the codes in the notebook. 
 
 ## Data source <a name="source"></a>
 There are four data files associated with this project: 
